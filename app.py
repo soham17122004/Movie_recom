@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 
-API_URL = "https://movie-recom-7ph1.onrender.com"
+API_URL = "https://movie-recom-7phl.onrender.com/"
 
 
 # =====================================
